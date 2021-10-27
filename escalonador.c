@@ -1,3 +1,3 @@
 
 
-#define timeslice 1
+#define timeSlice 1
